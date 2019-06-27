@@ -1,0 +1,32 @@
+http://server.me:4000/api/user
+
+Protocologo
+http:
+
+host server
+ server.me
+
+Porta
+ :4000/
+
+Base path
+ api/
+
+Recurso
+ user
+
+
+
+ JsonSchema
+ https://jsonschema.net/
+
+
+
+API Star Wars
+https://swapi.co/
+
+APi com Token
+https://openweathermap.org/
+
+key
+6795648875a96dc08f6644cd9deb09d8
